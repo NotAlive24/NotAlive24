@@ -7,7 +7,7 @@
 
 ### 👨‍💻 A little about me
 
-I'm currently in my second year as a Computer Science and Engineering undergraduate. While I love coding and general tech, my real passion lies in cybersecurity—specifically offensive security, network security, and playing Capture the Flag (CTF) challenges. 
+I'm currently in my second year as a Computer Science and Engineering undergraduate. While I do some coding and general tech, my real passion lies in cybersecurity—specifically offensive security, network security, and playing Capture the Flag (CTF) challenges. 
 
 I believe the best way to learn is by doing (and then writing about it), so I spend a lot of my time breaking things in safe environments and documenting how I did it from scratch.
 
