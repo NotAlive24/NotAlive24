@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hey there 👋 I'm Sanjay, but you might know me as 
-    Not Alive.</h1>
+  <h1>Hey there 👋 I'm Sanjay, but you might know me as</h1>
+  <break>
+  <h1>Not Alive.</h1>
   <p><em>CS Undergrad | Cybersecurity Enthusiast | Habitual CTF Player</em></p>
 </div>
 
